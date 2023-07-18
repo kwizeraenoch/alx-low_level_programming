@@ -1,12 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * print_times_table - Print the `n` times table, starting with 0.
  * Description: If `n` is greater than 15 or less than 0, print nothing.
  * @n: int type number
  */
-int print_times_table(int n)
+void print_times_table(int n)
 {
 	int x = 0, y, z;
 
