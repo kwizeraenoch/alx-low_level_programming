@@ -8,5 +8,5 @@ This Directory contain the Answer of the follwing Project:
 0x04. C - More functions, more nested loops
 0x05. C - Pointers, arrays and strings
 0x06. C - More pointers, arrays and strings
-
+0x07. C - Even more pointers, arrays and strings
 
