@@ -12,3 +12,8 @@ Tasks:
 7. The line of life is a ragged diagonal between duty and desire 
 
 
+
+Advanced Task:
+
+8. Double pointer, double fun 
+9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure 
