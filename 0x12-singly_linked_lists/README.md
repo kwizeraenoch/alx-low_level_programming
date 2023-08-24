@@ -9,5 +9,10 @@ Task:
 4. Free list 
 
 
+Advanced Task:
+5. The Hare and the Tortoise 
+6. Real programmers can write assembly code in any language 
+
+
 
 
