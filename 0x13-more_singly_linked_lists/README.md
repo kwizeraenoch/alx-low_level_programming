@@ -15,7 +15,12 @@ Task:
 10. Delete at index 
 
 
+Advanced Task:
 
+11. Reverse list 
+12. Print (safe version) 
+13. Free (safe version) 
+14. Find the loop 
 
 
 
