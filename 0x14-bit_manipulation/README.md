@@ -12,6 +12,10 @@ Task:
 
 
 
+Task
+
+6. Endianness 
+7. Crackme3 
 
 
 
